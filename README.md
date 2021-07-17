@@ -18,7 +18,7 @@ them to get loans in the future due to a machine learning decline.
 Recall and precision are taken from the classification report, a sample of which
 is seen below
 
-!["Classification Report]()
+!["Classification Report](https://github.com/caseykotowski/Credit_Risk_Analysis/blob/main/classification_report.png)
 
 * Naive Random Oversampling
 	* Accuracy: .64
